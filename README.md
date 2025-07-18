@@ -34,20 +34,16 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lekhoa5858089&theme=radical&row=1&column=7" alt="trophies" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lekhoa5858089&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khoalhdevloper&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhoa5858089&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalhdevloper&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=khoalhdevloper&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalhdevloper&theme=dracula" alt="Contribution Graph" />
 </p>
 
 ---
