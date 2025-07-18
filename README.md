@@ -34,19 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khoalhdevloper&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalhdevloper&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=khoalhdevloper&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalhdevloper&theme=dracula" alt="Contribution Graph" />
-</p>
-
----
 
 ### 🔥 Fun Fact
 - 😎 I love building intuitive UIs with React
